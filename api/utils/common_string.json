@@ -1,0 +1,7 @@
+{
+  "messages": {
+    "en": {
+      "UNAUTHORIZE": "Token mismatch or not found."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "module": "commonjs",
+        "pretty": true,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "esModuleInterop": true,
+        "sourceMap": true,
+        "target": "es6",
+        "outDir": "./dist",
+        "typeRoots": [
+            "@types",
+            "node_modules/@types"
+        ],
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "api/**/*.ts"
+    ]
+}
